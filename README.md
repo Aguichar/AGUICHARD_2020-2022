@@ -1,6 +1,6 @@
 # A_GUICHARD_Projet
 
-In this section, you'll find all the things I work on during my master degree.
+In this section, you'll find several things I work on during my master's degree.
 
 ## 2020 | 2021:
 
